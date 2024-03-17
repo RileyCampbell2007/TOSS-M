@@ -32,7 +32,7 @@
     * **Capacity:** The person must have the mental capacity to understand the nature and consequences of what they are consenting to.
     * **Voluntary:**  Consent must be given without coercion, manipulation, or pressure.
     * **Revocable:** Consent can be withdrawn at any time.
-    * **Age:** The person can give sexual consent only if they are above the age of 18 years old.
+    * **Age:** In order for the person to consent to sexual acts they must be above the legal limit of the area, if the legal limit is below 18 years old, then the person must be 18 or over.
 
 * **Mental Health:**  A state of well-being in which an individual realizes their abilities, can cope with the normal stresses of life, can work productively and fruitfully, and can contribute to their community. (Adapted from the World Health Organization's definition)
 
