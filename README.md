@@ -2,7 +2,7 @@
 <sub><sup>*The Open Source System of Morality*</sub></sup>
 
 ## What Is TOSS-M?
-**TOSS-M** aims to create a set of rules for people to live by. Some of these rules can boil down to the golden rule, do unto others as you would have done unto you.
+**TOSS-M** aims to create a framework of rules for people to live by. Some of these rules can boil down to the golden rule, do unto others as you would have done unto you.
 
 ## What Are These Rules I Should Be Following?
 
@@ -20,4 +20,28 @@
 
 6. Do not share information relating to someone to another person unless the first person consents to you sharing that information.
 
-7. Strive to assist others and provide services for others, whether it is for payment or not, however all parties involved must consent.
+7. Strive to assist others and provide services for others, whether it is for payment or not, however all parties involved must consent and it must not sacrifice your physical and mental health.
+
+**Definitions**
+
+* **Physical Harm:** Any act that causes bodily injury, pain, or impairment. This includes, but is not limited to, hitting, kicking, burning, cutting, or poisoning. 
+
+* **Emotional Harm:**  A pattern of non-physical behavior that negatively impacts a person's emotional and psychological well-being. This includes, but is not limited to, verbal abuse, threats, intimidation, humiliation, isolation, and manipulation.
+
+* **Consent:**  An explicit, freely-given, and informed agreement to engage in a specific activity. Key factors:
+    * **Capacity:** The person must have the mental capacity to understand the nature and consequences of what they are consenting to.
+    * **Voluntary:**  Consent must be given without coercion, manipulation, or pressure.
+    * **Revocable:** Consent can be withdrawn at any time.
+    * **Age:** The person can give sexual consent only if they are above the age of 18 years old.
+
+* **Mental Health:**  A state of well-being in which an individual realizes their abilities, can cope with the normal stresses of life, can work productively and fruitfully, and can contribute to their community. (Adapted from the World Health Organization's definition)
+
+* **Properly Certified (Mental Health):** This would depend on your jurisdiction. Generally: 
+    * Psychologists: Hold a doctoral degree in psychology and are licensed to practice.
+    * Psychiatrists: Medical doctors with specialized training in mental health diagnosis and treatment. 
+    * Licensed Counselors/Therapists: Hold master's degrees and licenses in therapeutic fields.
+
+* **Harm to Society:**  Actions that directly and significantly endanger the physical safety, mental well-being, or fundamental rights of others within a community. Evaluation should include:
+    * **Immediacy of Threat:** Is the danger imminent or potential? 
+    * **Scale of Threat:**  Is it directed at an individual or the wider community?
+    * **Legal Context**: Does the action clearly violate established laws?
